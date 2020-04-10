@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wasalas893/e-commerce.git/static/css/main.526068da.chunk.css",
+    "main.js": "/wasalas893/e-commerce.git/static/js/main.e21d2672.chunk.js",
+    "main.js.map": "/wasalas893/e-commerce.git/static/js/main.e21d2672.chunk.js.map",
+    "runtime-main.js": "/wasalas893/e-commerce.git/static/js/runtime-main.2ecdbfe5.js",
+    "runtime-main.js.map": "/wasalas893/e-commerce.git/static/js/runtime-main.2ecdbfe5.js.map",
+    "static/css/2.de424728.chunk.css": "/wasalas893/e-commerce.git/static/css/2.de424728.chunk.css",
+    "static/js/2.04e59db0.chunk.js": "/wasalas893/e-commerce.git/static/js/2.04e59db0.chunk.js",
+    "static/js/2.04e59db0.chunk.js.map": "/wasalas893/e-commerce.git/static/js/2.04e59db0.chunk.js.map",
+    "index.html": "/wasalas893/e-commerce.git/index.html",
+    "precache-manifest.683ffcdfbc52ee59c11f945557b590f6.js": "/wasalas893/e-commerce.git/precache-manifest.683ffcdfbc52ee59c11f945557b590f6.js",
+    "service-worker.js": "/wasalas893/e-commerce.git/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/wasalas893/e-commerce.git/static/css/2.de424728.chunk.css.map",
+    "static/css/main.526068da.chunk.css.map": "/wasalas893/e-commerce.git/static/css/main.526068da.chunk.css.map",
+    "static/js/2.04e59db0.chunk.js.LICENSE.txt": "/wasalas893/e-commerce.git/static/js/2.04e59db0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wasalas893/e-commerce.git/static/media/logo.9f7e506d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ecdbfe5.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.04e59db0.chunk.js",
+    "static/css/main.526068da.chunk.css",
+    "static/js/main.e21d2672.chunk.js"
+  ]
+}
