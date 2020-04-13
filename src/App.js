@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -7,16 +6,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 class App extends React.Component{
   render(){
      return(
-    <div className="container">
-      <div className="row">
-        <div className="col-6">column number one</div>
-        <div className="col-6">
-          <span>
-            <i className="fas fa-home"/>
-          </span>
-        </div>
-      </div>
-    </div>
+     <React.Fragment>
+       <h3>hello from app</h3>
+     </React.Fragment>
      );
   }
 }
